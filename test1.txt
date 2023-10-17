@@ -4,9 +4,5 @@ test1
 여기는 강의실11111111111111111111111111
 여기는 강의실1222222222222222
 
-<<<<<<< HEAD
-schoollllllllllllll
-=======
 
 homeeeeeeeeeeeeeeeeeeee
->>>>>>> 8fe71a0fb34c658ebb55b3e1041cb37aba70777e
